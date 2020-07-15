@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 
 
-My name is Aloisio and ...:
-
- - 📊 I'm working with Web Development
+ - 📊 Working with Web Development
  - 📚 Currently studying React and Node.js
 
