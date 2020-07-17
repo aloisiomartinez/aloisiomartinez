@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloisiomartinez/)](https://www.linkedin.com/in/aloisiomartinez/)
 
-### Hellooo! 👋 
 
  - 📊 Working with Web Development
  - 📚 Currently studying React and Node.js
