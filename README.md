@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 # Aloisio Martinez Jacobs :man_technologist:
 
+I'm a Full-Stack Developer working with Flutter and NodeJS.
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloisiomartinez/)](https://www.linkedin.com/in/aloisiomartinez/)
 
-
- - 📚 Currently studying React and Node.js
+ - 🔭 I currently work at vortigo Digital as an integration developer;
+ - 📚 Currently studying Flutter and Node.js
 
