@@ -20,6 +20,6 @@ I'm a Full-Stack Developer working with Flutter and NodeJS.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloisiomartinez/)](https://www.linkedin.com/in/aloisiomartinez/)
 
- - 🔭 I currently work at vortigo Digital as an Android Developer;
+ - 🔭 I currently work at Vortigo Digital as an Android Developer;
  - 📚 Currently studying Flutter and Android
 
