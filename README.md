@@ -20,6 +20,6 @@ Mobile Android Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloisiomartinez/)](https://www.linkedin.com/in/aloisiomartinez/)
 
- - 🔭 I currently work at Vortigo Digital as an Android Developer;
- - 📚 Currently studying Flutter and Android
+ - 🔭 Former Developer looking for relocation in the Data Analysis area;
+ - 📚 Currently studying Python, Pandas, SQL, Power Bi and Machine Learning;
 
