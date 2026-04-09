@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 # Aloisio Martinez Jacobs :man_technologist:
 
-Mobile Android Developer
+Backend Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloisiomartinez/)](https://www.linkedin.com/in/aloisiomartinez/)
- - :computer: Mobile Android Developer
+ - :computer: Backend Developer
 
  
 
